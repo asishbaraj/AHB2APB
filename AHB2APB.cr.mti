@@ -1,0 +1,36 @@
+{C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/APB_CONTROLLER.v} {1 {vlog -work work -stats=none {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/APB_CONTROLLER.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module APB_CONTROLLER
+
+Top level modules:
+	APB_CONTROLLER
+
+} {} {}} {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/AHB_MASTER.v} {1 {vlog -work work -stats=none {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/AHB_MASTER.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AHB_MASTER
+
+Top level modules:
+	AHB_MASTER
+
+} {} {}} {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/BRIDGE_TOP.v} {1 {vlog -work work -stats=none {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/BRIDGE_TOP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BRIDGE_TOP
+
+Top level modules:
+	BRIDGE_TOP
+
+} {} {}} {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/APB_INTERFACE.v} {1 {vlog -work work -stats=none {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/APB_INTERFACE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module APB_INTERFACE
+
+Top level modules:
+	APB_INTERFACE
+
+} {} {}} {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/AHB_SLAVE_INTERFACE.v} {1 {vlog -work work -stats=none {C:/Users/asish/OneDrive/Desktop/PROJECT AHB2APB/AHB_SLAVE_INTERFACE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ahb_slave_interface
+
+Top level modules:
+	ahb_slave_interface
+
+} {} {}}
